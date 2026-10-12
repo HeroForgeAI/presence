@@ -12,6 +12,10 @@ Everyone else contributes from a fork. A pull request is the door. Write access 
 
 What goes into the app, what stays out, when a version ships, and whether a change crosses one of the hard lines in [CONTRIBUTING.md](CONTRIBUTING.md). He may say no. When he does, it is kind and it comes with a reason.
 
+## Feature requests
+
+They arrive as issues, on the feature form. He says yes, not like that, or no. A yes is permission to propose a pull request from a fork. It is not a date, and it is not write access. A feature bigger than a small fix waits for that yes before anyone builds it.
+
 ## How a change gets merged
 
 1. It arrives as a pull request. Nothing is pushed straight to `main`, by anyone.
