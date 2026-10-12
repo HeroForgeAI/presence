@@ -1,9 +1,9 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="AppIcon.icon/Assets/presence-dark.png">
-  <source media="(prefers-color-scheme: light)" srcset="AppIcon.icon/Assets/presence-light.png">
-  <img alt="Presence" src="AppIcon.icon/Assets/presence-light.png" width="160">
+  <source media="(prefers-color-scheme: dark)" srcset="docs/assets/mark-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="docs/assets/mark-light.svg">
+  <img alt="Presence" src="docs/assets/mark-light.svg" width="168">
 </picture>
 
 # Presence
@@ -11,6 +11,18 @@
 **You get up to pee. The meeting still sees you.**
 
 Record a short take while the call still shows you live. Check it. Send that take, on a loop, and go. Come back, and the call sees you live again.
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="docs/assets/steps-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="docs/assets/steps-light.svg">
+  <img alt="Record, check, leave, come back." src="docs/assets/steps-light.svg" width="880">
+</picture>
+
+<img alt="On your Mac you record, check, and loop a take. In the meeting the picture stays you, live, the whole time, including while you are gone." src="docs/assets/how-it-works.gif" width="880">
+
+The countdown is on your Mac. The meeting never sees it.
+
+<img alt="The same picture holds while the loop plays. The end joins the start, so the tile does not jump." src="docs/assets/the-loop.gif" width="720">
 
 The take stays in memory. Nothing is saved to disk. Mute yourself before you leave.
 

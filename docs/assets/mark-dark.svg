@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240" role="img" aria-label="Presence">
+  <rect width="240" height="240" rx="54" fill="#141416"/>
+  <circle cx="120" cy="120" r="78" fill="#2a2c30"/>
+  <circle cx="120" cy="120" r="64" fill="#0c0c0e"/>
+  <circle cx="120" cy="120" r="46" fill="#16181c"/>
+  <circle cx="120" cy="120" r="28" fill="#07080a"/>
+  <g>
+    <animateTransform attributeName="transform" type="rotate" from="0 120 120" to="360 120 120" dur="9s" repeatCount="indefinite"/>
+    <ellipse cx="148" cy="92" rx="16" ry="9" fill="#f4f1ea" opacity="0.9"/>
+    <ellipse cx="142" cy="96" rx="7" ry="4" fill="#8eb4ff" opacity="0.55"/>
+  </g>
+  <path d="M120 36 a84 84 0 1 1 -8 0" fill="none" stroke="#8d9096" stroke-width="10" stroke-linecap="round"/>
+  <circle cx="120" cy="34" r="5" fill="#ff453a">
+    <animate attributeName="opacity" values="0.25;1;0.25" dur="1.6s" repeatCount="indefinite"/>
+    <animate attributeName="r" values="4;6;4" dur="1.6s" repeatCount="indefinite"/>
+  </circle>
+</svg>
