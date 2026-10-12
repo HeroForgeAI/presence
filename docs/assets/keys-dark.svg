@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 250" role="img" aria-label="Control-Option-R records. Control-Option-L steps away, and brings you back.">
+  <rect width="960" height="250" rx="28" fill="#141416"/>
+
+  <g transform="translate(86,46)">
+    <rect x="-16" y="-16" width="292" height="104" rx="22" fill="#0a84ff" opacity="0">
+      <animate attributeName="opacity" values="0;0.16;0.16;0;0" keyTimes="0;0.08;0.4;0.5;1" dur="8s" repeatCount="indefinite"/>
+    </rect>
+    <g fill="#2c2c2e" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, sans-serif" font-size="26" text-anchor="middle">
+      <rect width="72" height="72" rx="14"/>
+      <text x="36" y="46" fill="#f5f5f7">⌃</text>
+      <rect x="84" width="72" height="72" rx="14"/>
+      <text x="120" y="46" fill="#f5f5f7">⌥</text>
+      <rect x="168" width="72" height="72" rx="14"/>
+      <text x="204" y="46" fill="#f5f5f7">R</text>
+    </g>
+    <circle cx="214" cy="18" r="4" fill="#ff453a">
+      <animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.08;0.4;0.5;1" dur="8s" repeatCount="indefinite"/>
+    </circle>
+    <text x="130" y="128" fill="#a1a1a6" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, sans-serif" font-size="16" text-anchor="middle">Record, or cancel</text>
+  </g>
+
+  <g transform="translate(560,46)">
+    <rect x="-16" y="-16" width="292" height="104" rx="22" fill="#0a84ff" opacity="0">
+      <animate attributeName="opacity" values="0;0;0;0.16;0.16;0" keyTimes="0;0.5;0.58;0.66;0.92;1" dur="8s" repeatCount="indefinite"/>
+    </rect>
+    <g fill="#2c2c2e" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, sans-serif" font-size="26" text-anchor="middle">
+      <rect width="72" height="72" rx="14"/>
+      <text x="36" y="46" fill="#f5f5f7">⌃</text>
+      <rect x="84" width="72" height="72" rx="14"/>
+      <text x="120" y="46" fill="#f5f5f7">⌥</text>
+      <rect x="168" width="72" height="72" rx="14"/>
+      <text x="204" y="46" fill="#f5f5f7">L</text>
+    </g>
+    <text x="130" y="128" fill="#a1a1a6" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, sans-serif" font-size="16" text-anchor="middle">Leave, or come back</text>
+  </g>
+</svg>
