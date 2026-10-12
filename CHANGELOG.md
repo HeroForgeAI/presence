@@ -2,6 +2,7 @@
 
 ## Unreleased
 
+- The README shows the Dock icon, dark and light, and the scroll goes further: an afternoon with the app, the two cameras, and how many times a short take repeats.
 - Feature requests have their own issue form. The README welcomes them.
 - The README is a longer read. Five minutes for the trick, ten for why the picture holds, fifteen to build it.
 - The README shows the product in motion: an animated mark, the four steps, and two pictures of a take that stays live in the meeting until you leave.
