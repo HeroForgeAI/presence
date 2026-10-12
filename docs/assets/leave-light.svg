@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 440" role="img" aria-label="You leave the room. In the meeting you are still in the chair.">
+  <rect width="960" height="440" rx="28" fill="#f4f4f6"/>
+  <text x="250" y="40" fill="#6e6e73" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, sans-serif" font-size="16" text-anchor="middle">The room</text>
+  <text x="710" y="40" fill="#6e6e73" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, sans-serif" font-size="16" text-anchor="middle">The meeting</text>
+
+  <g transform="translate(40,64)">
+    <rect width="420" height="340" rx="22" fill="#ffffff"/>
+    <rect x="28" y="28" width="90" height="120" rx="8" fill="#d5dbe3"/>
+    <rect x="40" y="40" width="66" height="96" rx="4" fill="#c5d0de"/>
+    <rect x="36" y="250" width="348" height="70" rx="4" fill="#ececef"/>
+    <rect x="92" y="176" width="10" height="86" rx="3" fill="#d2d2d7"/>
+    <rect x="92" y="254" width="108" height="12" rx="4" fill="#c7c7cc"/>
+    <rect x="100" y="266" width="8" height="28" fill="#d2d2d7"/>
+    <rect x="184" y="266" width="8" height="28" fill="#d2d2d7"/>
+
+    <g opacity="1">
+      <animate attributeName="opacity" values="1;1;0;0;1" keyTimes="0;0.20;0.32;0.86;1" dur="12s" repeatCount="indefinite"/>
+      <ellipse cx="146" cy="236" rx="54" ry="26" fill="#c9bfb4"/>
+      <rect x="136" y="196" width="20" height="28" rx="8" fill="#c9bfb4"/>
+      <circle cx="146" cy="178" r="24" fill="#c9bfb4"/>
+    </g>
+
+    <rect x="292" y="78" width="92" height="196" rx="6" fill="#e4e4e8"/>
+    <rect x="292" y="78" width="92" height="196" rx="4" fill="#d8d8de">
+      <animate attributeName="width" values="92;92;14;14;92" keyTimes="0;0.26;0.40;0.82;1" dur="12s" repeatCount="indefinite"/>
+    </rect>
+    <circle cx="368" cy="176" r="3" fill="#6e6e73">
+      <animate attributeName="cx" values="368;368;300;300;368" keyTimes="0;0.26;0.40;0.82;1" dur="12s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="1;1;0;0;1" keyTimes="0;0.26;0.40;0.82;1" dur="12s" repeatCount="indefinite"/>
+    </circle>
+
+    <g opacity="0">
+      <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.24;0.32;0.66;0.76;1" dur="12s" repeatCount="indefinite"/>
+      <animateTransform attributeName="transform" type="translate" values="146 262; 146 262; 310 262; 340 262; 340 262" keyTimes="0;0.24;0.66;0.76;1" dur="12s" repeatCount="indefinite" calcMode="spline" keySplines="0.4 0 0.2 1;0.4 0 0.2 1;0.4 0 0.2 1;0.4 0 0.2 1"/>
+      <g>
+        <animateTransform attributeName="transform" type="rotate" values="-16;14;-16" dur="0.55s" repeatCount="indefinite"/>
+        <rect x="-12" y="0" width="8" height="34" rx="4" fill="#c9bfb4"/>
+      </g>
+      <g>
+        <animateTransform attributeName="transform" type="rotate" values="16;-14;16" dur="0.55s" repeatCount="indefinite"/>
+        <rect x="4" y="0" width="8" height="34" rx="4" fill="#c9bfb4"/>
+      </g>
+      <rect x="-13" y="-46" width="26" height="40" rx="12" fill="#c9bfb4"/>
+      <circle cx="0" cy="-62" r="14" fill="#c9bfb4"/>
+    </g>
+  </g>
+
+  <g transform="translate(500,64)">
+    <rect width="420" height="340" rx="22" fill="#ffffff"/>
+    <g transform="translate(36,48)">
+      <rect width="348" height="196" rx="18" fill="#f7f2f4"/>
+      <ellipse cx="174" cy="98" rx="150" ry="86" fill="#f0e4e2"/>
+      <ellipse cx="174" cy="98" rx="98" ry="58" fill="#e3b2a8"/>
+      <ellipse cx="174" cy="98" rx="46" ry="30" fill="#f6ecee"/>
+      <ellipse cx="174" cy="150" rx="92" ry="36" fill="#c9bfb4"/>
+      <rect x="164" y="108" width="20" height="26" rx="8" fill="#c9bfb4"/>
+      <circle cx="174" cy="96" r="26" fill="#c9bfb4"/>
+    </g>
+    <text x="210" y="292" fill="#86868b" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, sans-serif" font-size="16" text-anchor="middle">Unchanged</text>
+  </g>
+</svg>
