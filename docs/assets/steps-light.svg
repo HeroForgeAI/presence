@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 920 96" role="img" aria-label="Record, check, leave, come back">
+  <rect width="920" height="96" rx="20" fill="#f4f4f6"/>
+  <line x1="120" y1="38" x2="800" y2="38" stroke="#d2d2d7" stroke-width="2"/>
+  <line x1="120" y1="38" x2="800" y2="38" stroke="#1d1d1f" stroke-width="2" stroke-dasharray="680" stroke-dashoffset="680">
+    <animate attributeName="stroke-dashoffset" values="680;680;0;0" keyTimes="0;0.08;0.78;1" dur="12s" repeatCount="indefinite"/>
+  </line>
+  <g fill="#1d1d1f" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, sans-serif" font-size="18" text-anchor="middle">
+    <text x="120" y="74">Record</text>
+    <text x="347" y="74">Check</text>
+    <text x="573" y="74">Leave</text>
+    <text x="800" y="74">Back</text>
+  </g>
+  <circle cx="120" cy="38" r="7" fill="#0071e3">
+    <animate attributeName="cx" values="120;120;347;573;800;800" keyTimes="0;0.12;0.38;0.62;0.86;1" dur="12s" repeatCount="indefinite" calcMode="spline" keySplines="0.4 0 0.2 1;0.4 0 0.2 1;0.4 0 0.2 1;0.4 0 0.2 1;0.4 0 0.2 1"/>
+  </circle>
+  <circle cx="120" cy="38" r="4" fill="#ff3b30">
+    <animate attributeName="cx" values="120;120;120;573;573;120" keyTimes="0;0.2;0.35;0.55;0.75;1" dur="12s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;1;1;0;0;0" keyTimes="0;0.16;0.32;0.5;0.7;1" dur="12s" repeatCount="indefinite"/>
+  </circle>
+</svg>
