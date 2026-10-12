@@ -14,6 +14,18 @@ A take is a picture of a person on a call. **Never attach a recording, a screens
 
 Open an issue and pick **A question, or help getting set up**. No question is too basic.
 
+## Requesting a feature
+
+Open an issue and pick **[A feature](https://github.com/HeroForgeAI/presence/issues/new?template=feature.md)**. One request per issue. Say the moment you would use it, and what the other person on the call should see. You do not have to be a programmer, and you do not have to build it.
+
+Mak Allen reads these. He says yes, not like that, or no. A no comes with a reason. A yes means a pull request from your fork is welcome. It does not promise a date, and it does not put the change on `main` by itself. Opening the issue does not grant write access.
+
+If you want to build it, wait for the yes, then follow the steps below. A pull request for a feature nobody has said yes to, when it is bigger than a small fix, is how an evening gets thrown away.
+
+A request that crosses a [hard line](#the-hard-lines) needs an explicit yes before any code. If you are not sure, say so in the issue.
+
+The same rule as everything else: no recording, no screenshot of a real meeting, and no one else's face.
+
 ## Reporting a bug
 
 Open an issue with the bug form. Say which Mac, which macOS, which webcam, and which camera Zoom is set to. Say what you expected the other person to see.
@@ -24,7 +36,7 @@ Security problems go through [SECURITY.md](SECURITY.md), in private, and never i
 
 For a typo or a small fix, go straight to a pull request.
 
-For anything bigger, **open an issue first** and describe the change in two sentences. That way you hear yes, not like that, or no before you have spent an evening on it.
+For anything bigger, **open a feature issue first**. That way you hear yes, not like that, or no before you have spent an evening on it.
 
 ## Making the change
 

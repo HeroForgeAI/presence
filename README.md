@@ -209,11 +209,13 @@ The app is Swift. The camera and the interface are Apple frameworks. A port to s
 
 The door is open. The lock on `main` is locked.
 
+Want something the app does not do yet? Ask for it. Open an issue and pick [A feature](https://github.com/HeroForgeAI/presence/issues/new?template=feature.md). Say the moment you would use it, and what the other person on the call should see. You do not have to build it. If you want to build it, wait until you hear yes. A yes welcomes a pull request. It is not a week on the calendar, and it does not unlock `main`. He may say no. When he does, it comes with a reason.
+
 Ideas and fixes are welcome, from people who write Swift and from people who do not. A confusing sentence is a real contribution. So is a note that says which Mac, which webcam, and what the other person actually saw. Open an issue and pick the question form. No question is too basic.
 
 A change comes in as a pull request from your own fork. Nobody pushes straight to `main`. Mak Allen reads it, and he is the one who merges. He may say no. When he does, it comes with a reason. Write access is an invitation, later, after someone has been good to the project for a while. Opening a pull request does not hand you the keys. The app is small. A small app can be wrecked by one casual Tuesday, and the lock is how that does not happen.
 
-If you send a change, send one change. Put a line in the changelog under Unreleased. Run the tests when you can, and if you could not, say which Mac you are on and why. For anything bigger than a small fix, open an issue first and say the change in two sentences. You would rather hear “not like that” before you spend the evening.
+If you send a change, send one change. Put a line in the changelog under Unreleased. Run the tests when you can, and if you could not, say which Mac you are on and why. For anything bigger than a small fix, open a feature issue first. You would rather hear yes, not like that, or no before you spend the evening.
 
 Do not attach a recording, a shot of a real meeting, or anyone’s face. Describe the bug in words. A take is a person. It does not belong on a pull request. If a picture is required, use a stand-in.
 
