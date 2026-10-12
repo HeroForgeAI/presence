@@ -12,6 +12,13 @@
 
 Record a short take while the call still shows you live. Check it. Send that take, on a loop, and go. Come back, and the call sees you live again.
 
+<p>
+  <img alt="Presence app icon, dark" src="AppIcon.icon/Assets/presence-dark.png" width="220">
+  <img alt="Presence app icon, light" src="AppIcon.icon/Assets/presence-light.png" width="220">
+</p>
+
+The Dock icon. Dark, and light. The mark above is the one that moves.
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="docs/assets/steps-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="docs/assets/steps-light.svg">
@@ -29,7 +36,8 @@ The countdown is on your Mac. The meeting never sees it.
 <p>
   <a href="#five-minutes"><b>Five minutes.</b></a> The reason you would want this.<br>
   <a href="#ten-minutes"><b>Ten minutes.</b></a> Why the picture holds up once you are actually gone.<br>
-  <a href="#fifteen-minutes"><b>Fifteen minutes.</b></a> The keys, the camera, and a build you can run tonight.
+  <a href="#fifteen-minutes"><b>Fifteen minutes.</b></a> The keys, the camera, and a build you can run tonight.<br>
+  <a href="#if-you-are-still-here"><b>And longer.</b></a> An afternoon with it, and the icon in the Dock.
 </p>
 
 </div>
@@ -45,6 +53,8 @@ So you stay. You cross your legs. You miss the thing you already stood up for in
 Sometimes that thing is a glass of water. Sometimes it is the bathroom. The meeting does not need the difference. It needs a person who is still in the chair.
 
 Presence is that person.
+
+The other people on the call have bodies too. Someone is hungry. Someone has a kid at the door. Someone is reading the thing they were supposed to have read, on a screen the camera cannot see. The tile makes all of them look like heads in a box. Presence is for the minute you stop being a head in a box and become a person who had to stand up, without making a speech out of it.
 
 You press record while everyone still sees you live. A countdown runs on your Mac, big enough to see without leaning in, and it does not run in the meeting. There is no number burned into the corner of the tile. There is no badge with your name, and no little red dot for them to wonder about. You do the take the way you would sit through the next minute anyway. Here. Looking at the lens. A person who has not gone anywhere.
 
@@ -65,6 +75,8 @@ On your screen, you know you have left. On theirs, nothing changes. Same person.
 </div>
 
 Come back when you are back. One press. The room has you live again, including the part where you sit down and become someone who was here the whole time. The take is still in the app. You can step away again on that same take, without recording another, for as long as Presence is open.
+
+You do not have to keep the window in front of Zoom. The menu bar holds a small ring, with a gap in it, the way the lens in the Dock has a gap in its ring. While you record, a dot sits in that ring. When you have stepped away, the ring draws heavier. Click it and the window is there, the same window, even when the meeting is covering the desktop. The lens in the Dock is the app. The ring is how you drive it without going looking.
 
 That is the product. A fresh take. A loop. A return.
 
@@ -120,6 +132,10 @@ Eight is long enough to be a person settling, and short enough to repeat. Forty 
 
 Pick a take that can survive being seen twice. A wave, a point, anything you do once on purpose, becomes a joke the second time and a confession the third. Eight quiet seconds of you in the chair can repeat. A performance cannot. If you want a move in the forty-second take, make it the kind of move a person makes without noticing. A glance off. A glance back. Then the chair again.
 
+Count it once, so you are not surprised later. Eight seconds, and you are gone for four minutes, is thirty times through the same take. Twenty seconds, gone for ten minutes, is thirty again. The meeting is not watching a film of your errand. It is watching a short, quiet person, over and over, until you sit back down. That is why the take should be something you could have done without thinking. If the thirtieth play would embarrass you, the first one was the wrong take.
+
+The preview shows you the face they already have. Not the mirror you are used to from every other camera app. A lot of people flinch the first time. The flinch is the useful part. If you look wrong to yourself in that window, you already look that way to them, on every ordinary call, and the loop will only repeat it. Fix the lamp. Sit up. Look at the lens, not at the little picture of yourself. Then record again. A take you cancel does not replace the one you liked.
+
 And one limit, while you are still comfortable. If someone asks you a question, the take will not answer it. The picture does not know it was asked. Presence is for the stretch where you are scenery. The status update. The screen share. The part where someone else is talking and your job is to look like a person who is listening. It is a bad way to survive being called on. If you hear your name, you come back. That is what the second key is for.
 
 You will not see the words Live, Take, or Loop in the meeting. You will not see the countdown. You will not see the button that says I’m back. All of that stays on your Mac, so you know which room you are in. They only get the picture.
@@ -134,7 +150,7 @@ The window is small on purpose. A preview. A length. A background. Two sliders. 
 
 Glass goes from Off to Clear. Off is a solid window. Clear gets out of the way, and the type stays readable while it does. Leave the slider where you like the window. It will be there next time.
 
-You can close the window. Presence keeps running. The Dock icon stays, and so does the menu bar item. You should not have to go find an app while you are already standing up.
+You can close the window. Presence keeps running. The Dock icon stays, and so does the menu bar item. You should not have to go find an app while you are already standing up. The picture in the Dock is a lens. A dark lens if the Mac is set to dark, a light one if it is set to light. The picture in the menu bar is not that lens. It is the small ring, on purpose, so it can sit beside the clock without shouting. Same gap. Much quieter.
 
 <div align="center">
 
@@ -156,9 +172,13 @@ Click either row and press the chord you actually want. It needs Control, Option
 
 ### The camera you already have
 
-Any real webcam can be the one Presence holds. The camera built into a MacBook. A USB camera. A phone on the desk. A Facecam. You do not need a particular brand. The menu lists real cameras, and it does not list virtual ones, so the picture cannot be fed back into itself and turn into a hall of mirrors.
+There are two cameras, and mixing them up is how the picture goes black.
 
-Presence holds that camera and passes it through, live, until you arm the loop. The meeting is pointed at a different camera, and you point it there once. The name is written at the bottom of the window. Read that name. Select that name in Zoom, Meet, or Teams. It will not say Presence. When a paid Apple Developer signature can install the camera extension, other apps would see a camera by that name. This build does not pretend that day has arrived.
+Presence holds the real one. The camera built into a MacBook, a USB camera, a phone on the desk, a Facecam. You do not need a particular brand. That menu lists real cameras, and it does not list virtual ones, so the picture cannot be fed back into itself and turn into a hall of mirrors. Presence passes that camera through, live, until you arm the loop.
+
+The meeting does not get that camera. The meeting gets the virtual one. The name is written at the bottom of the window. Read it. Select it once in Zoom, Meet, or Teams. It will not say Presence. If the meeting is still pointed at the webcam, the meeting and Presence are arguing over one lens, and the window will say the camera is busy. Give the meeting the virtual camera. Give Presence the real one. Then the live picture has a way through, and the loop has somewhere to go.
+
+When a paid Apple Developer signature can install the camera extension, other apps would see a camera by the name Presence. This build does not pretend that day has arrived.
 
 A Mac that has never had a virtual camera needs [OBS](https://obsproject.com). It is free. Open it, click Start Virtual Camera, and allow the extension under System Settings, General, Login Items & Extensions, Camera Extensions. Then click Stop Virtual Camera. Presence is the one that should be writing frames. OBS does not have to stay open. It cannot be the one writing at the same time, or there is nowhere for the picture to go.
 
@@ -230,6 +250,33 @@ The edges, if you are choosing where not to spend a weekend:
 - No claim that Zoom lists a camera named Presence, until a build signed with a paid Apple Developer certificate actually does.
 
 The work that helps is the picture the other person sees. A join that does not hitch. A crop that does not jump. A background that matches the meeting. A long call that does not spin the fan the whole time.
+
+## If you are still here
+
+Here is one afternoon.
+
+The standup starts. People are still saying good morning, which is the easiest moment you will get. You press record while the call still has you live. Eight seconds. You look at the lens the way you look at a person who is talking, not at the little window of your own face, and not at the document on the other screen. You check the take. It is dull. Dull is the point. You leave it armed and go back to the meeting.
+
+Twenty minutes later you stand up. The meeting sees the take. You are in the kitchen, or the hall, or wherever you had to be. You come back before anyone has needed you. You sit down. You press the key. You are live again, and the take is still sitting there, ready for the next time.
+
+An hour after that it is a doorbell, or a kid, or the thing you have been putting off since the call began. You leave on the same take. You do not record a new one. The shirt has not changed. The lamp has not changed. A new take would be a different person, for no reason the room can use.
+
+If someone says your name, you come back first and you answer second. The picture cannot nod on cue. It cannot glance at a shared screen and then find the lens again. It cannot look like it heard the question. Those are the edges of a loop. They are also the interesting problems, and they belong in a [feature request](https://github.com/HeroForgeAI/presence/issues/new?template=feature.md), not in a promise this page does not make. Say the moment. Say what the other person should see. Looking at the camera counts. So does seeming to listen. So does coming back fast when the meeting suddenly needs a live person.
+
+What you tell someone who asks what the app is. You get up. The meeting still sees you. If they want the longer version, you are reading it.
+
+<div align="center">
+
+<p>
+  <img alt="Presence app icon, dark" src="AppIcon.icon/Assets/presence-dark.png" width="160">
+  <img alt="Presence app icon, light" src="AppIcon.icon/Assets/presence-light.png" width="160">
+</p>
+
+</div>
+
+The Dock icon, again, because this is the object. A lens, and a small break in the ring. Dark for a dark Mac. Light for a light one. The break is the same idea as the ring next to the clock: a camera that is on, drawn quiet enough to live on a desktop all day.
+
+One last thing about the take, said as a feeling and not as a rule. When you quit Presence, the afternoon is gone. There is no file of you sitting there, eight seconds long, waiting in a folder with today's date. Tomorrow's call gets tomorrow's take. That is the whole ethic of the app. You look present for this meeting. You do not leave a copy of yourself behind for the next one.
 
 <div align="center">
 
